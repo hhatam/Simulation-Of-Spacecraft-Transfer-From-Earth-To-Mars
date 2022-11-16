@@ -1,0 +1,930 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.10) (preloaded format=xelatex 2021.7.7)  16 NOV 2022 22:39
+entering extended mode
+**./AM2-proj2.tex
+(AM2-proj2.tex
+LaTeX2e <2020-10-01> patch level 1
+L3 programming layer <2020-10-05> xparse <2020-03-03>
+(D:\LaTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(D:\LaTeX\tex/latex/base\size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count171
+\c@section=\count172
+\c@subsection=\count173
+\c@subsubsection=\count174
+\c@paragraph=\count175
+\c@subparagraph=\count176
+\c@figure=\count177
+\c@table=\count178
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (D:\LaTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(D:\LaTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (D:\LaTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen139
+)) (D:\LaTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(D:\LaTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count179
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count180
+\leftroot@=\count181
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count182
+\DOTSCASE@=\count183
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count184
+\c@MaxMatrixCols=\count185
+\dotsspace@=\muskip16
+\c@parentequation=\count186
+\dspbrk@lvl=\count187
+\tag@help=\toks16
+\row@=\count188
+\column@=\count189
+\maxfields@=\count190
+\andhelp@=\toks17
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks18
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (D:\LaTeX\tex/generic/babel\babel.sty
+Package: babel 2020/10/06 3.50 The Babel package
+
+(D:\LaTeX\tex/generic/babel\babel.def
+File: babel.def 2020/10/06 3.50 Babel common definitions
+\babel@savecnt=\count191
+\U@D=\dimen148
+\l@babelnohyphens=\language83
+ (D:\LaTeX\tex/generic/babel\xebabel.def
+(D:\LaTeX\tex/generic/babel\txtbabel.def))
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count192
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(D:\LaTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+Package babel Info: You haven't specified a language. I'll use 'nil'
+(babel)             as the main language. Reported on input line 1153.
+ (D:\LaTeX\tex/generic/babel\nil.ldf
+Language: nil 2020/10/06 3.50 Nil language
+\l@nil=\language84
+))
+(D:\LaTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\LaTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(D:\LaTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (D:\LaTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (D:\LaTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+
+(D:\LaTeX\tex/latex/graphics-def\xetex.def
+File: xetex.def 2020/08/26 v5.0i Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+)
+(D:\LaTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2020/08/23 v1.3g Sub-captions (AR)
+
+(D:\LaTeX\tex/latex/caption\caption.sty
+Package: caption 2020/09/12 v3.5b Customizing captions (AR)
+
+(D:\LaTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/09/17 v2.1b caption3 kernel (AR)
+\captionmargin=\dimen151
+\captionmargin@=\dimen152
+\captionwidth=\dimen153
+\caption@tempdima=\dimen154
+\caption@indent=\dimen155
+\caption@parindent=\dimen156
+\caption@hangindent=\dimen157
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count193
+\c@continuedfloat=\count194
+)
+\c@subfigure=\count195
+\c@subtable=\count196
+) (D:\LaTeX\tex/latex/was\upgreek.sty
+Package: upgreek 2003/02/12 v2.0 (WaS)
+Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
+\symugrf@m=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
+) (D:\LaTeX\tex/latex/placeins\placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(D:\LaTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(D:\LaTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(D:\LaTeX\tex/xelatex/xepersian\xepersian.sty
+Package: xepersian 2020/05/17 v23.1 Persian typesetting in XeLaTeX
+
+(D:\LaTeX\tex/latex/fontspec\fontspec.sty
+(D:\LaTeX\tex/latex/l3packages/xparse\xparse.sty
+(D:\LaTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2020-10-05 L3 programming layer (loader) 
+
+(D:\LaTeX\tex/latex/l3backend\l3backend-xetex.def
+File: l3backend-xetex.def 2020-09-24 L3 backend support: XeTeX
+\g__graphics_track_int=\count197
+\l__pdf_internal_box=\box49
+\g__pdf_backend_object_int=\count198
+\g__pdf_backend_annotation_int=\count199
+))
+Package: xparse 2020-10-05 L3 Experimental document command parser
+
+(D:\LaTeX\tex/latex/l3packages/xparse\xparse-generic.tex))
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+
+(D:\LaTeX\tex/latex/fontspec\fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count266
+\l__fontspec_language_int=\count267
+\l__fontspec_strnum_int=\count268
+\l__fontspec_tmp_int=\count269
+\l__fontspec_tmpa_int=\count270
+\l__fontspec_tmpb_int=\count271
+\l__fontspec_tmpc_int=\count272
+\l__fontspec_em_int=\count273
+\l__fontspec_emdef_int=\count274
+\l__fontspec_strong_int=\count275
+\l__fontspec_strongdef_int=\count276
+\l__fontspec_tmpa_dim=\dimen158
+\l__fontspec_tmpb_dim=\dimen159
+\l__fontspec_tmpc_dim=\dimen160
+
+(D:\LaTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+) (D:\LaTeX\tex/latex/fontspec\fontspec.cfg))) (D:\LaTeX\tex/xelatex/xepersian\
+xepersian-persiancal.sty
+Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
+\XePersian@i=\count277
+\XePersian@y=\count278
+\XePersian@m=\count279
+\XePersian@d=\count280
+\XePersian@latini=\count281
+\XePersian@persiani=\count282
+\XePersian@latinii=\count283
+\XePersian@persianii=\count284
+\XePersian@latiniii=\count285
+\XePersian@persianiii=\count286
+\XePersian@latiniv=\count287
+\XePersian@persianiv=\count288
+\XePersian@latinv=\count289
+\XePersian@persianv=\count290
+\XePersian@latinvi=\count291
+\XePersian@persianvi=\count292
+\XePersian@latinvii=\count293
+\XePersian@persianvii=\count294
+\XePersian@latinviii=\count295
+\XePersian@persianviii=\count296
+\XePersian@latinix=\count297
+\XePersian@persianix=\count298
+\XePersian@latinx=\count299
+\XePersian@persianx=\count300
+\XePersian@latinxi=\count301
+\XePersian@persianxi=\count302
+\XePersian@latinxii=\count303
+\XePersian@persianxii=\count304
+\XePersian@persianxiii=\count305
+\XePersian@temp=\count306
+\XePersian@temptwo=\count307
+\XePersian@tempthree=\count308
+\XePersian@yModHundred=\count309
+\XePersian@thirtytwo=\count310
+\XePersian@dn=\count311
+\XePersian@sn=\count312
+\XePersian@mminusone=\count313
+)
+(D:\LaTeX\tex/xelatex/xepersian\xepersian-mathsdigitspec.sty
+Package: xepersian-mathsdigitspec 2018/12/16 v1.1.7 Unicode Persian maths digit
+s in XeLaTeX
+)
+(D:\LaTeX\tex/xelatex/bidi\bidi.sty
+Package: bidi 2020/05/17 v36.3 Bidirectional typesetting in plain TeX and LaTeX
+
+
+****************************************************
+* 
+* bidi package (Bidirectional typesetting in
+* plain TeX and LaTeX, using XeTeX engine)
+* 
+* Description: A convenient interface for
+* typesetting bidirectional texts in plain TeX
+* and LaTeX. The package includes adaptations
+* for use with many other commonly-used packages.
+* 
+* Copyright (c) 2007--2020 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub organization
+* 
+* v36.3, 2020/05/17
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/bidi
+* 
+* Issue tracker: https://github.com/persiantex/bidi/issues
+* 
+* Primary author of bidi package: Vafa Khalighi.
+* 
+****************************************************
+(D:\LaTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+) (D:\LaTeX\tex/xelatex/bidi\biditools.sty
+Package: biditools 2020/05/13 v2 Programming tools for bidi package
+\@bidi@envbody=\toks21
+\@bidi@emptytoks=\toks22
+\bidi@poscount=\count314
+
+Package biditools Warning: Patching `\enddocument' failed on input line 916.
+
+\bidi@tempcountb=\count315
+\bidi@temptoksa=\toks23
+\bidi@temptoksb=\toks24
+\bidi@dummies=\count316
+\bidi@are@these@correct=\toks25
+\bidi@toks@lista=\toks26
+\bidi@toks@listb=\toks27
+\bidi@stack@length=\count317
+\bidi@empty@stack=\toks28
+\bidi@looprepeat@depth=\count318
+) (D:\LaTeX\tex/latex/zref\zref-abspage.sty
+Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
+
+(D:\LaTeX\tex/latex/zref\zref-base.sty
+Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
+
+(D:\LaTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(D:\LaTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(D:\LaTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(D:\LaTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(D:\LaTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(D:\LaTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+(D:\LaTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 764.
+Package zref Info: New property: default on input line 765.
+Package zref Info: New property: page on input line 766.
+)
+(D:\LaTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\c@abspage=\count319
+Package zref Info: New property: abspage on input line 66.
+)
+(D:\LaTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(D:\LaTeX\tex/generic/xkeyval\xkeyval.tex
+(D:\LaTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks29
+\XKV@tempa@toks=\toks30
+)
+\XKV@depth=\count320
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\@bidi@copyins@=\insert252
+
+(D:\LaTeX\tex/xelatex/bidi\latex-xetex-bidi.def
+File: latex-xetex-bidi.def 2019/03/03 v1.3.7 bidi adaptations for `latex.ltx' f
+or XeTeX engine
+\bidi@n@everypar=\toks31
+\bidi@column@check@number=\count321
+
+(D:\LaTeX\tex/xelatex/bidi\footnote-xetex-bidi.def
+File: footnote-xetex-bidi.def 2017/08/09 v1.1 bidi footnote macros for XeTeX en
+gine
+\c@footdir@label=\count322
+\footdir@toks=\toks32
+)
+(D:\LaTeX\tex/xelatex/bidi\article-xetex-bidi.def
+File: article-xetex-bidi.def 2017/06/09 v0.6 bidi adaptations for standard arti
+cle class for XeTeX engine
+)
+(D:\LaTeX\tex/xelatex/bidi\amsmath-xetex-bidi.def
+File: amsmath-xetex-bidi.def 2020/05/16 v1.2 bidi adaptations for amsmath packa
+ge for XeTeX engine
+)
+(D:\LaTeX\tex/xelatex/bidi\amstext-xetex-bidi.def
+File: amstext-xetex-bidi.def 2016/09/12 v0.2 bidi adaptations for amstext packa
+ge for XeTeX engine
+)
+(D:\LaTeX\tex/xelatex/bidi\caption-xetex-bidi.def
+File: caption-xetex-bidi.def 2010/07/25 v0.1 bidi adaptations for caption packa
+ge for XeTeX engine
+)
+(D:\LaTeX\tex/xelatex/bidi\caption3-xetex-bidi.def
+File: caption3-xetex-bidi.def 2013/04/01 v0.1 bidi adaptations for caption3 pac
+kage for XeTeX engine
+)
+(D:\LaTeX\tex/xelatex/bidi\graphicx-xetex-bidi.def
+File: graphicx-xetex-bidi.def 2017/06/17 v0.5 bidi adaptations for graphicx pac
+kage for XeTeX engine
+))
+(D:\LaTeX\tex/xelatex/bidi\loadingorder-xetex-bidi.def
+File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
+ last package loaded
+)
+\bidi@digits=\count323
+\bidi@digits@charclass=\XeTeXcharclass1
+\bidi@sepmark@charclass=\XeTeXcharclass2
+)
+****************************************************
+* 
+* xepersian package (Persian for LaTeX, using XeTeX engine)
+* 
+* Description: The package supports Persian
+* typesetting, using fonts provided in the
+* distribution.
+* 
+* Copyright (c) 2008--2020 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub Organization
+* 
+* v23.1, 2020/05/17
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/xepersian
+* 
+* Issue tracker: https://github.com/persiantex/xepersian/issues
+* 
+* Primary author of xepersian package: Vafa Khalighi.
+* 
+****************************************************
+\xepersian@tcl=\count324
+\xepersian@ilg=\dimen161
+\xepersian@strutilg=\dimen162
+(D:\LaTeX\tex/xelatex/xepersian\loadingorder-xepersian.def
+File: loadingorder-xepersian.def 2018/09/29 v0.5 making sure that xepersian is 
+the last package loaded
+)
+(D:\LaTeX\tex/xelatex/xepersian\footnote-xepersian.def
+File: footnote-xepersian.def 2017/08/09 v0.6 footnote macros for xepersian pack
+age
+)
+(D:\LaTeX\tex/xelatex/xepersian\article-xepersian.def
+File: article-xepersian.def 2010/07/25 v0.2 adaptations for standard article cl
+ass
+)
+
+Package fontspec Info: Font family 'lmroman10-regular(0)' created for font
+(fontspec)             'lmroman10-regular' with options
+(fontspec)             [Ligatures=TeX,Path,BoldFont={lmroman10-bold},BoldItalic
+Font={lmroman10-bolditalic},ItalicFont={lmroman10-italic},SmallCapsFont={lmroma
+ncaps10-regular},SlantedFont={lmromanslant10-regular},BoldSlantedFont={lmromans
+lant10-bold}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[lmroman10-regular]/OT:script=latn;language=dflt;map
+ping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[lmroman10-bold]/OT:script=latn;language=dflt;mappin
+g=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[lmroman10-italic]/OT:script=latn;language=dflt;mapp
+ing=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'slanted' (m/sl) with NFSS spec.:
+(fontspec)             <->"[lmromanslant10-regular]/OT:script=latn;language=dfl
+t;mapping=tex-text;"
+(fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[lmroman10-bolditalic]/OT:script=latn;language=dflt;
+mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
+(fontspec)             <->"[lmromanslant10-bold]/OT:script=latn;language=dflt;m
+apping=tex-text;"
+(fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+
+)
+
+Package fontspec Info: Font family 'XBZar.TTF(0)' created for font 'XB
+(fontspec)             Zar.TTF' with options
+(fontspec)             [Script=Persian,Ligatures=PersianTeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"[XB
+(fontspec)             Zar.TTF]/OT:script=arab;language=dflt;mapping=persian-te
+x-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+! Undefined control sequence.
+l.15 \DeclarePairedDelimiter
+                            \norm{\lVert}{\rVert}
+? 
+! Undefined control sequence.
+l.15 \DeclarePairedDelimiter\norm
+                                 {\lVert}{\rVert}
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.15 \DeclarePairedDelimiter\norm{\lVert
+                                        }{\rVert}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \DeclarePairedDelimiter\norm{\lVert
+                                        }{\rVert}
+? 
+LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
+
+(D:\LaTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
+
+ (D:\LaTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+! Extra }, or forgotten $.
+l.15 \DeclarePairedDelimiter\norm{\lVert}
+                                         {\rVert}
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.19 
+     
+? 
+(AM2-proj2.aux)
+\openout1 = `AM2-proj2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
+0.
+ (D:\LaTeX\tex/latex/base\ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ [1
+
+]
+
+LaTeX Font Warning: Font shape `TU/XBZar.TTF(0)/b/n' undefined
+(Font)              using `TU/XBZar.TTF(0)/m/n' instead on input line 22.
+
+
+LaTeX Warning: File `../results/hohman.png' not found on input line 27.
+
+! Unable to load picture or PDF file '../results/hohman.png'.
+<to be read again> 
+                   }
+l.27 ...dth=\textwidth*8/9]{../results/hohman.png}
+                                                  
+? 
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...dth=\textwidth*8/9]{../results/hohman.png}
+                                                  
+? 
+File: ../results/hohman.png Graphic file (type bmp)
+<../results/hohman.png>
+
+Overfull \hbox (87.85547pt too wide) in paragraph at lines 27--28
+[][][]\TU/XBZar.TTF(0)/m/n/12 *۸/۹*۸/۹*۸/۹[][] []
+ []
+
+[2]
+
+LaTeX Warning: File `../results/park.png' not found on input line 45.
+
+! Unable to load picture or PDF file '../results/park.png'.
+<to be read again> 
+                   }
+l.45 ...width=\textwidth*8/9]{../results/park.png}
+                                                  
+? 
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...width=\textwidth*8/9]{../results/park.png}
+                                                  
+? 
+File: ../results/park.png Graphic file (type bmp)
+<../results/park.png>
+
+Overfull \hbox (87.85547pt too wide) in paragraph at lines 45--46
+[][][]\TU/XBZar.TTF(0)/m/n/12 *۸/۹*۸/۹*۸/۹[][] []
+ []
+
+! Undefined control sequence.
+<argument>  R_{park} &= 4.22 \cross 
+                                    10^6 m\\ a &= \frac {R_{park} + R_E}{2} ...
+l.54 ^^I\end{align}
+                   
+? 
+! Undefined control sequence.
+<argument> ... {R_{park} + R_E}{2} = 2.429 \cross 
+                                                  10^7 m\\ e &= \frac {R_{pa...
+l.54 ^^I\end{align}
+                   
+? 
+! Undefined control sequence.
+<argument> ...Delta \tilde {v_2}^2) = 5.541\cross 
+                                                  10^7 \frac {J}{Kg} 
+l.54 ^^I\end{align}
+                   
+? 
+! Undefined control sequence.
+<argument>  R_{park} &= 4.22 \cross 
+                                    10^6 m\\ a &= \frac {R_{park} + R_E}{2} ...
+l.54 ^^I\end{align}
+                   
+? 
+! Undefined control sequence.
+<argument> ... {R_{park} + R_E}{2} = 2.429 \cross 
+                                                  10^7 m\\ e &= \frac {R_{pa...
+l.54 ^^I\end{align}
+                   
+? 
+! Undefined control sequence.
+<argument> ...Delta \tilde {v_2}^2) = 5.541\cross 
+                                                  10^7 \frac {J}{Kg} 
+l.54 ^^I\end{align}
+                   
+? 
+[3]
+! Undefined control sequence.
+<argument> ...e {v_1} - v_{park})^2 = 2.25 \cross 
+                                                  10^6 \frac {J}{Kg} 
+l.60 ^^I\end{align}
+                   
+? 
+! Undefined control sequence.
+<argument> ...e {v_1} - v_{park})^2 = 2.25 \cross 
+                                                  10^6 \frac {J}{Kg} 
+l.60 ^^I\end{align}
+                   
+? 
+! Undefined control sequence.
+l.63 ^^I\frac{E}{m} = 2 \cross
+                               10^{6} \frac{J}{Kg}
+? 
+! Undefined control sequence.
+l.66 ^^I$1 \cross
+                  10^{4} Kg$
+? 
+! Undefined control sequence.
+l.69 ^^IE_{tot} = 5.966 \cross
+                               10^{11} J
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+[][]
+ []
+
+
+! LaTeX Error: File `../results/code1' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77 ...cs[width=\textwidth*8/9]{../results/code1}
+                                                  
+? 
+
+! LaTeX Error: File `../results/code2' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 ...cs[width=\textwidth*8/9]{../results/code2}
+                                                  
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--83
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--83
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--83
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--83
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--83
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--83
+[][]
+ []
+
+[4]
+
+! LaTeX Error: File `../results/orbit1' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.84 ...s[width=\textwidth*8/9]{../results/orbit1}
+                                                   \\
+? 
+
+! LaTeX Error: File `../results/orbit2' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.85 ...s[width=\textwidth*8/9]{../results/orbit2}
+                                                   \\
+? 
+
+! LaTeX Error: File `../results/orbit3' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 ...s[width=\textwidth*8/9]{../results/orbit3}
+                                                   \\
+? 
+
+! LaTeX Error: File `../results/orbit4' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87 ...s[width=\textwidth*8/9]{../results/orbit4}
+                                                   \\
+? 
+
+! LaTeX Error: File `../results/orbit5' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 ...s[width=\textwidth*8/9]{../results/orbit5}
+                                                   \\
+? 
+
+! LaTeX Error: File `../results/orbit6' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89 ...s[width=\textwidth*8/9]{../results/orbit6}
+                                                   \\ \\
+? 
+
+! LaTeX Error: File `../results/graph1' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 ...s[width=\textwidth*8/9]{../results/graph1}
+                                                   \\
+? 
+
+! LaTeX Error: File `../results/graph2' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 ...s[width=\textwidth*8/9]{../results/graph2}
+                                                   \\
+? 
+
+! LaTeX Error: File `../results/graph3' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.92 ...s[width=\textwidth*8/9]{../results/graph3}
+                                                   \\ \\
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--93
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--93
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--93
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--93
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--93
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--93
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--93
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--93
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--93
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--93
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--93
+[][]
+ []
+
+! Undefined control sequence.
+<argument> ...\text {خروج از مرکز} \\ 2.83 \cross 
+                                                  10^{8} m &= \text {نیم‌ قط...
+l.100 ^^I\end{align}
+                    
+? 
+! Undefined control sequence.
+<argument> ...\text {خروج از مرکز} \\ 2.83 \cross 
+                                                  10^{8} m &= \text {نیم‌ قط...
+l.100 ^^I\end{align}
+                    
+? 
+
+Package caption Warning: Unused \captionsetup[sub] on input line 9.
+See the caption package documentation for explanation.
+
+[5] (AM2-proj2.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 15 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 9341 strings out of 412217
+ 197881 string characters out of 2857992
+ 607857 words of memory out of 3000000
+ 28590 multiletter control sequences out of 15000+200000
+ 544198 words of font info for 85 fonts, out of 3000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 85i,11n,96p,1047b,627s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on AM2-proj2.pdf (5 pages).
